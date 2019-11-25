@@ -1,0 +1,26 @@
+h1 {
+  font-family: "PT Sans", sans-serif;
+  color: #008ae6;
+  font-size: 50px;
+}
+h2 {
+  font-family: "PT Sans", sans-serif;
+  color: #80ccff;
+  font-size: 25px;
+}
+#inputbox {
+  width: 175px;
+  background-color: #ffe6cc;
+}
+
+html {
+  background-color: #ffd9b3;
+}
+
+.completed{
+  text-decoration:line-through;
+}
+.remove {
+  float:right;
+  cursor:pointer;
+}
