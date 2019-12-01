@@ -3,11 +3,13 @@ h1 {
   color: #008ae6;
   font-size: 50px;
 }
+
 h2 {
   font-family: "PT Sans", sans-serif;
   color: #80ccff;
   font-size: 25px;
 }
+
 #inputbox {
   width: 175px;
   background-color: #ffe6cc;
@@ -20,6 +22,7 @@ html {
 .completed{
   text-decoration:line-through;
 }
+
 .remove {
   float:right;
   cursor:pointer;
